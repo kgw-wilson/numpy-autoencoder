@@ -1,7 +1,7 @@
 # Numpy Autoencoder
 
 This repository contains a simple autoencoder implementation using only NumPy (PyTorch is used solely for loading the MNIST dataset). The autoencoder encodes and decodes handwritten digit images in the [MNIST](https://en.wikipedia.org/wiki/MNIST_database)
-dataset downloaded from [torchvision][(https://docs.pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html).
+dataset downloaded from [torchvision](https://docs.pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html).
 
 ## Setup
 
