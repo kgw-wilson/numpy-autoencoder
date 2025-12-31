@@ -15,7 +15,7 @@ source venv/bin/activate
 Then install dependencies with:
 
 ```shell
-`pip install -r requirements.txt`
+pip install -r requirements.txt
 ```
 
 Once that's done, you can open up `example.ipynb` in VSCode (you could also use other GUIs like `jupyter notebook` but I have the project setup the way I used it in VSCode).
