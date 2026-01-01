@@ -5,10 +5,10 @@ dataset downloaded from [torchvision](https://docs.pytorch.org/vision/main/gener
 
 ## Setup
 
-This project uses [pyenv](https://github.com/pyenv/pyenv) for Python version management. From any directory run:
+This project uses [pyenv](https://github.com/pyenv/pyenv) for Python version management. If you don't already have python 3.10.12 installed, (check with `pyenv versions`) install it with the command below. From any directory run:
 
 ```shell
-pyenv install 3.11.8
+pyenv install 3.10.12
 ```
 
 Within the project directory create a virtual environment with:
